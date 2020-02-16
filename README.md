@@ -1,3 +1,5 @@
+This branch works as of 02/2020
+
 ## ScholarDOI
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 
